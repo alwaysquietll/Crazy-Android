@@ -6,7 +6,6 @@
     android:orientation="horizontal">
 
     <Button
-        android:id="@+id/send"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="send"
@@ -15,6 +14,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="del"
-        android:text="删除Notification" />
+        android:onClick="subscribe"
+        android:text="订阅Notification" />
 </LinearLayout>
