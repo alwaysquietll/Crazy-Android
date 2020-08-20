@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:http="http://schemas.android.com/apk/res/android"
+    http:orientation="vertical"
+    http:layout_width="match_parent"
+    http:layout_height="match_parent"
+    http:gravity="center_horizontal">
+    <EditText
+        http:id="@+id/txt"
+        http:layout_width="match_parent"
+        http:layout_height="wrap_content"
+        http:editable="false"
+        http:cursorVisible="false"
+        http:textSize="12pt"/>
+    <Button
+        http:id="@+id/bn"
+        http:layout_width="wrap_content"
+        http:layout_height="wrap_content"
+        http:text="单击我"/>
+</LinearLayout>
