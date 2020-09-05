@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XmlResTest</string>
+    <string name="parse">解析XML资源</string>
+</resources>
